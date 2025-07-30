@@ -1,0 +1,6 @@
+/opt/spark/scripts/source/country_wise_latest.csv, /opt/spark/scripts/data/bronce/country_wise_latest
+/opt/spark/scripts/source/covid_19_clean_complete.csv, /opt/spark/scripts/data/bronce/covid_19_clean_complete
+/opt/spark/scripts/source/day_wise.csv, /opt/spark/scripts/data/bronce/day_wise
+/opt/spark/scripts/source/full_grouped.csv, /opt/spark/scripts/data/bronce/full_grouped
+/opt/spark/scripts/source/usa_county_wise.csv, /opt/spark/scripts/data/bronce/usa_county_wise
+/opt/spark/scripts/source/worldometer_data.csv, /opt/spark/scripts/data/bronce/worldometer_data
